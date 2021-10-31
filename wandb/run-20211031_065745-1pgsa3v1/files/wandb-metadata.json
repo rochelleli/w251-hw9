@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.8.0-1041-aws-x86_64-with-glibc2.10",
+    "python": "3.8.10",
+    "heartbeatAt": "2021-10-31T06:57:46.142893",
+    "startedAt": "2021-10-31T06:57:45.294163",
+    "docker": null,
+    "gpu": "Tesla T4",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/root/.local/share/jupyter/runtime/kernel-b4b177d1-b803-45cc-9067-731ac954dcd2.json"
+    ],
+    "state": "running",
+    "program": "w251-hw9/master.ipynb",
+    "root": "/home/ubuntu/w251-hw9",
+    "git": {
+        "remote": "https://github.com/rochelleli/w251-hw9.git",
+        "commit": "1194ce2b1c821ed8b17d53bd25f99ca53911793d"
+    },
+    "email": null,
+    "host": "ip-172-31-17-123",
+    "username": "root",
+    "executable": "/opt/conda/bin/python3.8"
+}
