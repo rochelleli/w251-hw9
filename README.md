@@ -5,7 +5,7 @@ The high level idea is to practice running multi-node training by adapting the c
 
 Notes:
 * Provisioned two g4dn.2xlarge instances. Each has 8 vCPUs, so you'll need to the ability (limit) to provision 16 vCPUs. 
-* Added 400GB of storage space under /root so that you can comfortably work with imagenet2012
+* Added 400GB of storage space under /root
 
 ### Multi-Node
 Files in `slave` and `master` folders
